@@ -1,0 +1,4 @@
+<trans-unit id="1">
+  <source>Hello</source>
+  <target><![CDATA[<img src=x onerror=alert(1)>]]></target>
+</trans-unit>
